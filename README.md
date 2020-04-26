@@ -4,7 +4,6 @@ MMORPG와 같은 온라인 게임에서 게임 내 재화, 아이템의 환금�
 <br><br>
 
 ## 최종 결과
----
 R모르파티 2등 우수상 수상
 <img src="results.png" width="100%" height="100%">
 
