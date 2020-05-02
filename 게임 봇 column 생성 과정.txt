@@ -1,0 +1,51 @@
+Player information
+logindaycount -> 103번 로그를 아이디별로 카운트
+logincount -> 103번 로그 이용, 요일별로가 아니고 총 로그인 횟수
+logoutdaycount -> 104번 로그
+playtime -> 104. etc_num7
+playtimeperday -> 
+avgmoney -> 187, 188, etc_num8
+ipcount -> 103번의 etc_str1
+maxlevel -> 113번에서 etc_num2의 최고값
+
+player action
+sitcount ->  118번 계정 UID별 횟수
+sitcount per day
+sit ratio
+exp get amount -> 143번 etc_num7
+exp get ratio
+exp get per day
+item get ratio 
+item get count -> 202, etc num1
+item get count per day
+
+exp repair count/per day 148
+
+money get count -> 187,188, etc_num8
+money get per day
+money ratio
+
+abyss 719~723
+
+use portal count 151
+use portal count per day
+
+killey by pc 137
+killed by npc 138
+
+teleportcount/per day 142
+reborn count 145
+
+Group activity
+average party time 127, etc_num 12 에다가 127의 횟수로 나누기
+
+guild act count 601-612 다 더하기
+guild join count 605
+
+
+새로 추가 한 것
+퀘스트 완료(504), 퀘스트 포기(505)
+
+etc_num 1,2, 7, 8, 12
+etc_str 1
+
